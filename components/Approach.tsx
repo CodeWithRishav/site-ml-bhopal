@@ -3,11 +3,11 @@ import { AnimatePresence, motion } from "framer-motion";
 
 import { CanvasRevealEffect } from "./ui/CanvasRevealEffect";
 
-const Approach = () => {
+// const Approach = () => {
   
-};
+// };
 
-export default Approach;
+// export default Approach;
 
 const Card = ({
   title,
